@@ -105,4 +105,4 @@ For any issues, please open a ticket in the **Issues** section.
 ---
 
 📌 **Author**: Rishav Raj  
-📌 **GitHub**: [rishavrajji](https://github.com/rishavrajj) 🚀
+📌 **GitHub**: [rishavrajji](https://github.com/rishavvrajj) 🚀
