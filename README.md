@@ -2,6 +2,10 @@
 
 This repository contains SQL scripts and datasets for building a **Data Warehouse** using a **Bronze, Silver, and Gold** layered architecture. The project is designed to handle structured data, providing a robust pipeline for data ingestion, transformation, and analytics.
 
+<div id="header" align="center">
+  <img src="https://github.com/rishavvrajj/Data-Wharehouse/blob/main/docs/Data_Architecutre.png"/>
+</div>
+
 ## 📂 Project Structure
 
 ```
